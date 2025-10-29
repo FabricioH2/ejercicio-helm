@@ -1,8 +1,9 @@
+name: mi-app-3
+
 container:
   tag: 13
   port: 3000
   deployment: mi-deployment-3
   namespace: ffisa-dev
   minReplicas: 2
-  maxReplicas: 5
-  name: mi-app-3
+  maxReplicas: 5 
