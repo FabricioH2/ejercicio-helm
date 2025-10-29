@@ -5,3 +5,4 @@ container:
   namespace: ffisa-dev
   minReplicas: 2
   maxReplicas: 5
+  name: mi-app-3
